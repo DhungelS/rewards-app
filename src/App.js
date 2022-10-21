@@ -1,9 +1,10 @@
+import TransactionsTable from "./components/TransactionsTable";
 
 
 function App() {
   return (
     <div className="App">
-     Learn
+     <TransactionsTable/>
     </div>
   );
 }
