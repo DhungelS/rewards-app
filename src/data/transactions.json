@@ -1,0 +1,688 @@
+[{
+    "id": "a25596b8-3c9e-499c-a3fd-80188188d669",
+    "name": "Colene Weal",
+    "purchases": [
+      {
+        "price": 14.67,
+        "item": "Island Oasis - Peach Daiquiri"
+      },
+      {
+        "price": 16.11,
+        "item": "Muffin Hinge - 211n"
+      },
+      {
+        "price": 16.98,
+        "item": "Bar Mix - Lemon"
+      },
+      {
+        "price": 20.02,
+        "item": "Mushrooms - Honey"
+      },
+      {
+        "price": 18.64,
+        "item": "Beer - Sleemans Honey Brown"
+      },
+      {
+        "price": 17.6,
+        "item": "Soup - Campbells Mac N Cheese"
+      },
+      {
+        "price": 16.47,
+        "item": "Country Roll"
+      }
+    ],
+    "total": 120.49,
+    "date": "10/7/2022"
+  }, {
+    "id": "7d110d52-2868-4e5a-aaf6-8fa0baf4616e",
+    "name": "Adler Dorgan",
+    "purchases": [
+      {
+        "price": 23.33,
+        "item": "Cheese - Parmesan Cubes"
+      },
+      {
+        "price": 17.56,
+        "item": "Fish - Atlantic Salmon, Cold"
+      },
+      {
+        "price": 11.82,
+        "item": "Jam - Apricot"
+      },
+      {
+        "price": 18.62,
+        "item": "Cheese Cloth"
+      },
+      {
+        "price": 8.25,
+        "item": "Artichoke - Fresh"
+      },
+      {
+        "price": 21.16,
+        "item": "Peas Snow"
+      },
+      {
+        "price": 18.41,
+        "item": "Tea - Camomele"
+      }
+    ],
+    "total": 119.15,
+    "date": "10/10/2022"
+  }, {
+    "id": "f9e34a64-7029-4d15-a26d-bdd329ca1b2c",
+    "name": "Louis Balthasar",
+    "purchases": [
+      {
+        "price": 21.97,
+        "item": "Muffin - Mix - Strawberry Rhubarb"
+      },
+      {
+        "price": 20.62,
+        "item": "Tea - English Breakfast"
+      },
+      {
+        "price": 21.21,
+        "item": "Wine - Red, Pinot Noir, Chateau"
+      }
+    ],
+    "total": 63.8,
+    "date": "10/3/2022"
+  }, {
+    "id": "af912032-5d50-4180-9af5-5d6067f2deb5",
+    "name": "Jeno Sigart",
+    "purchases": [
+      {
+        "price": 21.83,
+        "item": "Pepper - Black, Ground"
+      },
+      {
+        "price": 13.88,
+        "item": "Filling - Mince Meat"
+      },
+      {
+        "price": 15.75,
+        "item": "Cheese - Feta"
+      }
+    ],
+    "total": 51.46,
+    "date": "9/26/2022"
+  }, {
+    "id": "4818bcb0-d70d-4798-8414-98ca09f0fcee",
+    "name": "Garek Grosvener",
+    "purchases": [
+      {
+        "price": 18.1,
+        "item": "Mushroom - Shitake, Fresh"
+      },
+      {
+        "price": 14.69,
+        "item": "Bread Crumbs - Japanese Style"
+      },
+      {
+        "price": 24.99,
+        "item": "Clams - Canned"
+      },
+      {
+        "price": 20.52,
+        "item": "Cheese - Ricotta"
+      },
+      {
+        "price": 21.85,
+        "item": "Alize Sunset"
+      }
+    ],
+    "total": 100.15,
+    "date": "10/19/2022"
+  }, {
+    "id": "762609eb-7d6b-4616-8f3a-35105949a9bd",
+    "name": "Imojean Neville",
+    "purchases": [
+      {
+        "price": 22.82,
+        "item": "Wine - Sogrape Mateus Rose"
+      }
+    ],
+    "total": 22.82,
+    "date": "9/17/2022"
+  }, {
+    "id": "b63f81cc-8d9c-4271-8817-025abf407b1c",
+    "name": "Gregorius Bruni",
+    "purchases": [
+      {
+        "price": 12.62,
+        "item": "Scallops 60/80 Iqf"
+      },
+      {
+        "price": 9.11,
+        "item": "Sunflower Seed Raw"
+      },
+      {
+        "price": 23.04,
+        "item": "Cheese - Parmigiano Reggiano"
+      },
+      {
+        "price": 14.83,
+        "item": "Chocolate Bar - Oh Henry"
+      },
+      {
+        "price": 23.5,
+        "item": "Trout - Rainbow, Frozen"
+      }
+    ],
+    "total": 83.1,
+    "date": "10/20/2022"
+  }, {
+    "id": "bbe7ec75-b58b-450d-b871-adb8fc4ccefd",
+    "name": "Margette Rogeon",
+    "purchases": [
+      {
+        "price": 15.29,
+        "item": "Appetizer - Mushroom Tart"
+      },
+      {
+        "price": 11.65,
+        "item": "Jam - Strawberry, 20 Ml Jar"
+      },
+      {
+        "price": 8.21,
+        "item": "Trueblue - Blueberry 12x473ml"
+      },
+      {
+        "price": 8.84,
+        "item": "Chips - Doritos"
+      },
+      {
+        "price": 24.03,
+        "item": "Bread - Italian Corn Meal Poly"
+      },
+      {
+        "price": 23.85,
+        "item": "Dragon Fruit"
+      }
+    ],
+    "total": 91.87,
+    "date": "9/20/2022"
+  }, {
+    "id": "efc96c56-26c7-4331-a507-438cc2d446d9",
+    "name": "Lurline Darley",
+    "purchases": [
+      {
+        "price": 19.53,
+        "item": "Soup - Campbells Chili Veg"
+      },
+      {
+        "price": 23.26,
+        "item": "Eel - Smoked"
+      },
+      {
+        "price": 23.3,
+        "item": "Tart Shells - Sweet, 4"
+      },
+      {
+        "price": 22.04,
+        "item": "Liquid Aminios Acid - Braggs"
+      },
+      {
+        "price": 10.03,
+        "item": "Sping Loaded Cup Dispenser"
+      },
+      {
+        "price": 20.77,
+        "item": "Neckerchief Blck"
+      },
+      {
+        "price": 15.4,
+        "item": "Jolt Cola - Electric Blue"
+      }
+    ],
+    "total": 134.33,
+    "date": "9/13/2022"
+  }, {
+    "id": "31991744-1cf0-4072-8bbc-ba82189bed9f",
+    "name": "Daron Blowes",
+    "purchases": [
+      {
+        "price": 11.31,
+        "item": "Wine - Ej Gallo Sonoma"
+      },
+      {
+        "price": 10.0,
+        "item": "Pepper - Black, Ground"
+      },
+      {
+        "price": 13.34,
+        "item": "Durian Fruit"
+      },
+      {
+        "price": 22.98,
+        "item": "Hinge W Undercut"
+      },
+      {
+        "price": 21.31,
+        "item": "Soup - Campbells Tomato Ravioli"
+      },
+      {
+        "price": 8.3,
+        "item": "Foam Dinner Plate"
+      },
+      {
+        "price": 13.84,
+        "item": "Wine - Gato Negro Cabernet"
+      }
+    ],
+    "total": 101.08,
+    "date": "9/22/2022"
+  }, {
+    "id": "d545363b-4b89-4e07-8fba-ec9b44340257",
+    "name": "Dudley Di Batista",
+    "purchases": [
+      {
+        "price": 15.77,
+        "item": "Squid Ink"
+      },
+      {
+        "price": 8.91,
+        "item": "Energy Drink - Franks Original"
+      },
+      {
+        "price": 18.53,
+        "item": "Lamb Shoulder Boneless Nz"
+      },
+      {
+        "price": 9.55,
+        "item": "Icecream - Dstk Cml And Fdg"
+      },
+      {
+        "price": 11.73,
+        "item": "Food Colouring - Blue"
+      },
+      {
+        "price": 15.26,
+        "item": "Curry Powder Madras"
+      }
+    ],
+    "total": 79.75,
+    "date": "9/23/2022"
+  }, {
+    "id": "7686df40-a02c-4072-a182-5d4a6b949ae2",
+    "name": "Marlane Iacavone",
+    "purchases": [
+      {
+        "price": 18.75,
+        "item": "Squid - Tubes / Tenticles 10/20"
+      },
+      {
+        "price": 21.02,
+        "item": "Uniform Linen Charge"
+      },
+      {
+        "price": 10.13,
+        "item": "Beef - Kindney, Whole"
+      },
+      {
+        "price": 12.75,
+        "item": "Cheese - Blue"
+      }
+    ],
+    "total": 62.65,
+    "date": "9/27/2022"
+  }, {
+    "id": "21d08a03-b4be-45dd-b75b-4daa81ce45e4",
+    "name": "Annabell Mc Carrick",
+    "purchases": [
+      {
+        "price": 20.86,
+        "item": "Cheese - Swiss"
+      },
+      {
+        "price": 21.07,
+        "item": "Tea - Herbal Sweet Dreams"
+      },
+      {
+        "price": 18.78,
+        "item": "Tamarillo"
+      },
+      {
+        "price": 14.87,
+        "item": "Capon - Breast, Double, Wing On"
+      },
+      {
+        "price": 15.13,
+        "item": "Water Chestnut - Canned"
+      },
+      {
+        "price": 9.58,
+        "item": "Beer - True North Strong Ale"
+      },
+      {
+        "price": 14.57,
+        "item": "Soup - Campbells - Tomato"
+      }
+    ],
+    "total": 114.86,
+    "date": "8/26/2022"
+  }, {
+    "id": "337e53ba-e2e4-4d08-9490-9d36e2284536",
+    "name": "Eldredge Cosh",
+    "purchases": [
+      {
+        "price": 15.5,
+        "item": "Parsley - Dried"
+      }
+    ],
+    "total": 15.5,
+    "date": "8/24/2022"
+  }, {
+    "id": "ee2487f5-4826-4361-b4e6-5e1bd24d4628",
+    "name": "Alexia Boneham",
+    "purchases": [
+      {
+        "price": 18.0,
+        "item": "Juice - Ocean Spray Cranberry"
+      },
+      {
+        "price": 8.16,
+        "item": "Fish - Halibut, Cold Smoked"
+      },
+      {
+        "price": 10.43,
+        "item": "Madeira"
+      }
+    ],
+    "total": 36.59,
+    "date": "10/13/2022"
+  }, {
+    "id": "f2c5511f-e7e2-4f7c-bc8e-71de7e46ae4e",
+    "name": "Libbi Gaywood",
+    "purchases": [
+      {
+        "price": 12.63,
+        "item": "Compound - Passion Fruit"
+      },
+      {
+        "price": 24.72,
+        "item": "Oil - Pumpkinseed"
+      },
+      {
+        "price": 11.14,
+        "item": "Nut - Chestnuts, Whole"
+      },
+      {
+        "price": 22.62,
+        "item": "Cheese - Grie Des Champ"
+      }
+    ],
+    "total": 71.11,
+    "date": "8/24/2022"
+  }, {
+    "id": "9eecc21d-4705-4066-92e4-f0a94df6ff4a",
+    "name": "Catriona Beney",
+    "purchases": [
+      {
+        "price": 9.09,
+        "item": "Gelatine Leaves - Bulk"
+      },
+      {
+        "price": 12.53,
+        "item": "Versatainer Nc - 9388"
+      },
+      {
+        "price": 10.95,
+        "item": "Bagel - Everything"
+      },
+      {
+        "price": 11.72,
+        "item": "Muffin Batt - Blueberry Passion"
+      },
+      {
+        "price": 15.49,
+        "item": "Dip - Tapenade"
+      },
+      {
+        "price": 21.15,
+        "item": "Soup - Campbells, Cream Of"
+      }
+    ],
+    "total": 80.93,
+    "date": "10/7/2022"
+  }, {
+    "id": "949e45ca-aade-4a1f-8ef8-be67abbc53ee",
+    "name": "Dredi Hynd",
+    "purchases": [
+      {
+        "price": 17.95,
+        "item": "Nut - Almond, Blanched, Whole"
+      },
+      {
+        "price": 21.84,
+        "item": "Wine - Winzer Krems Gruner"
+      }
+    ],
+    "total": 39.79,
+    "date": "9/11/2022"
+  }, {
+    "id": "9a082083-ecb0-4e04-a70c-d817492ce658",
+    "name": "Johnath Torrans",
+    "purchases": [
+      {
+        "price": 23.87,
+        "item": "Beets - Candy Cane, Organic"
+      },
+      {
+        "price": 9.34,
+        "item": "Onions - Red Pearl"
+      },
+      {
+        "price": 9.9,
+        "item": "Trout - Hot Smkd, Dbl Fillet"
+      },
+      {
+        "price": 20.83,
+        "item": "Beer - Sleemans Honey Brown"
+      },
+      {
+        "price": 10.87,
+        "item": "Milk Powder"
+      },
+      {
+        "price": 13.75,
+        "item": "Sun - Dried Tomatoes"
+      }
+    ],
+    "total": 88.56,
+    "date": "8/23/2022"
+  }, {
+    "id": "a00098b9-47d7-47c4-89f5-2a463aa673f4",
+    "name": "Fina Scroggs",
+    "purchases": [
+      {
+        "price": 14.11,
+        "item": "Kellogs All Bran Bars"
+      },
+      {
+        "price": 8.29,
+        "item": "External Supplier"
+      }
+    ],
+    "total": 22.4,
+    "date": "10/17/2022"
+  }, {
+    "id": "ecd4c050-184e-4df8-b516-a4c97de172d4",
+    "name": "Ninnette Marran",
+    "purchases": [
+      {
+        "price": 20.74,
+        "item": "Chicken - Diced, Cooked"
+      }
+    ],
+    "total": 20.74,
+    "date": "10/9/2022"
+  }, {
+    "id": "0ee70e66-1c2b-4777-8fb2-9cf9c54bc00a",
+    "name": "Natty Ertel",
+    "purchases": [
+      {
+        "price": 24.53,
+        "item": "Container - Hngd Cll Blk 7x7x3"
+      }
+    ],
+    "total": 24.53,
+    "date": "8/26/2022"
+  }, {
+    "id": "daf06ef7-0bb0-4ff3-8518-d99fb3aaf444",
+    "name": "Braden Cone",
+    "purchases": [
+      {
+        "price": 23.31,
+        "item": "Loquat"
+      }
+    ],
+    "total": 23.31,
+    "date": "8/26/2022"
+  }, {
+    "id": "111837d1-27dc-4c6b-9f08-13caeb217162",
+    "name": "Farleigh Biermatowicz",
+    "purchases": [
+      {
+        "price": 14.39,
+        "item": "Cheese - Brick With Pepper"
+      },
+      {
+        "price": 24.66,
+        "item": "Langers - Cranberry Cocktail"
+      },
+      {
+        "price": 24.13,
+        "item": "Fennel"
+      },
+      {
+        "price": 19.67,
+        "item": "Salt - Table"
+      }
+    ],
+    "total": 82.85,
+    "date": "10/15/2022"
+  }, {
+    "id": "59dbbb91-d1b0-4664-aef8-fdd47b764442",
+    "name": "Evanne Isselee",
+    "purchases": [
+      {
+        "price": 19.57,
+        "item": "Pasta - Elbows, Macaroni, Dry"
+      },
+      {
+        "price": 16.53,
+        "item": "Dragon Fruit"
+      },
+      {
+        "price": 13.63,
+        "item": "Kellogs Raisan Bran Bars"
+      },
+      {
+        "price": 21.02,
+        "item": "Steampan - Half Size Shallow"
+      }
+    ],
+    "total": 70.75,
+    "date": "10/15/2022"
+  }, {
+    "id": "2e6f2469-2a61-4a9f-b6e3-f66d25128546",
+    "name": "Roxane Hayden",
+    "purchases": [
+      {
+        "price": 17.74,
+        "item": "Kiwi"
+      },
+      {
+        "price": 16.46,
+        "item": "Dried Peach"
+      },
+      {
+        "price": 21.54,
+        "item": "Garlic - Primerba, Paste"
+      },
+      {
+        "price": 21.26,
+        "item": "Appetizer - Sausage Rolls"
+      }
+    ],
+    "total": 77.0,
+    "date": "9/10/2022"
+  }, {
+    "id": "30f0c601-ad86-436f-bf73-7986d07fd0f6",
+    "name": "Townie Burghill",
+    "purchases": [
+      {
+        "price": 20.97,
+        "item": "Salmon - Smoked, Sliced"
+      },
+      {
+        "price": 11.23,
+        "item": "Cheese - Wine"
+      }
+    ],
+    "total": 32.2,
+    "date": "9/23/2022"
+  }, {
+    "id": "2d964c2b-0eeb-4105-a432-5f1a1b655155",
+    "name": "Skippie Mahoney",
+    "purchases": [
+      {
+        "price": 23.93,
+        "item": "Mushroom - Shitake, Dry"
+      },
+      {
+        "price": 21.15,
+        "item": "Instant Coffee"
+      },
+      {
+        "price": 16.41,
+        "item": "Pasta - Orecchiette"
+      },
+      {
+        "price": 12.8,
+        "item": "Wine - Alicanca Vinho Verde"
+      },
+      {
+        "price": 20.49,
+        "item": "Veal - Liver"
+      }
+    ],
+    "total": 94.78,
+    "date": "9/30/2022"
+  }, {
+    "id": "e071618d-38bd-4d0f-a160-cf1931093815",
+    "name": "Jamil Le Marchant",
+    "purchases": [
+      {
+        "price": 21.61,
+        "item": "Filter - Coffee"
+      },
+      {
+        "price": 23.54,
+        "item": "Nantucket Cranberry Juice"
+      },
+      {
+        "price": 12.27,
+        "item": "Garam Masala Powder"
+      },
+      {
+        "price": 14.62,
+        "item": "Latex Rubber Gloves Size 9"
+      }
+    ],
+    "total": 72.04,
+    "date": "9/9/2022"
+  }, {
+    "id": "e2d6e01c-32d9-4b62-a31d-7c7845b6e312",
+    "name": "Magdaia Perri",
+    "purchases": [
+      {
+        "price": 15.27,
+        "item": "Toamtoes 6x7 Select"
+      }
+    ],
+    "total": 15.27,
+    "date": "9/7/2022"
+  }]
+  
