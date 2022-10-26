@@ -20,7 +20,21 @@ const TransactionsTable = () => {
       )
     );
   }
-  console.log("tst", transactions);
+
+  const calculatePoints = (month, person) => {
+    return (
+      (transactions[month]
+        .filter((transaction) => transaction.customerName === person)
+        .reduce((total, transaction) => {
+          total += transaction.total;
+          return Math.round(total);
+        }, 0) -
+        100) *
+        2 +
+      50
+    );
+  };
+
   useEffect(() => {
     const fetchDataOnLoad = async () => {
       const { data } = await getTransactions();
@@ -62,42 +76,91 @@ const TransactionsTable = () => {
     fetchDataOnLoad();
   }, []);
 
-
   return (
     <div className="container">
       <div>
         <h3>Nathanil Laurence Points:</h3>
 
+        <ul>
+          <li>
+            August:
+            {calculatePoints("august", "Nathanil Laurence")}
+          </li>
+          <li>
+            September:
+            {calculatePoints("september", "Nathanil Laurence")}
+          </li>
+          <li>
+            October:
+            {calculatePoints("october", "Nathanil Laurence")}
+          </li>
           <ul>
-            <li>Total: </li>
-            <ul>
-              <li>August:  </li>
-              <li>September:  </li>
-              <li>October: </li>
-            </ul>
+            <li>
+              Total:
+              {calculatePoints("august", "Nathanil Laurence") +
+                calculatePoints("september", "Nathanil Laurence") +
+                calculatePoints("october", "Nathanil Laurence")}
+            </li>
           </ul>
-         
+        </ul>
 
-          <h3>Evangelina Jerred  Points:</h3>
+        <h3>Evangelina Jerred Points:</h3>
+        <ul>
+          <li>
+            August:
+            {calculatePoints("august", "Evangelina Jerred")}
+          </li>
+          <li>
+            September:
+            {calculatePoints("september", "Evangelina Jerred")}
+          </li>
+          <li>
+            October:
+            {calculatePoints("october", "Evangelina Jerred")}
+          </li>
           <ul>
-            <li>Total: </li>
-            <ul>
-              <li>August:  </li>
-              <li>September:  </li>
-              <li>October: </li>
-            </ul>
+            <li>
+              Total:{" "}
+              {calculatePoints("august", "Evangelina Jerred") +
+                calculatePoints("september", "Evangelina Jerred") +
+                calculatePoints("october", "Evangelina Jerred")}
+            </li>
           </ul>
-          
-          <h3>Cameron Smith  Points:</h3>
-          <ul>
-            <li>Total: </li>
-            <ul>
-              <li>August:  </li>
-              <li>September:  </li>
-              <li>October: </li>
-            </ul>
-          </ul>
+        </ul>
 
+        <h3>Cameron Smith Points:</h3>
+        <ul>
+          <li>
+            August:
+            {calculatePoints("august", "Cameron Smith") > 0
+              ? calculatePoints("august", "Cameron Smith")
+              : 0}
+          </li>
+          <li>
+            September:
+            {calculatePoints("september", "Cameron Smith") > 0
+              ? calculatePoints("september", "Cameron Smith")
+              : 0}
+          </li>
+          <li>
+            October:
+            {calculatePoints("october", "Cameron Smith") > 0
+              ? calculatePoints("october", "Cameron Smith")
+              : 0}
+          </li>
+          <ul>
+            <li>
+              Total:
+              {calculatePoints("august", "Cameron Smith") > 0
+                ? calculatePoints("august", "Cameron Smith")
+                : 0 + calculatePoints("september", "Cameron Smith") > 0
+                ? calculatePoints("september", "Cameron Smith")
+                : 0 + calculatePoints("october", "Cameron Smith") > 0
+                ? calculatePoints("october", "Cameron Smith")
+                : 0}
+            </li>
+          </ul>
+        </ul>
       </div>
       <table>
         <thead>
@@ -111,8 +174,8 @@ const TransactionsTable = () => {
           </tr>
         </thead>
         <tbody>
-          {transactions.august.map((transaction) => (
-            <tr>
+          {transactions.august.map((transaction, index) => (
+            <tr key={index}>
               <td>{transaction.customerName}</td>
               <td>{transaction.date}</td>
               <td>{transaction.total}</td>
@@ -132,8 +195,8 @@ const TransactionsTable = () => {
           </tr>
         </thead>
         <tbody>
-          {transactions.september.map((transaction) => (
-            <tr>
+          {transactions.september.map((transaction, index) => (
+            <tr key={index}>
               <td>{transaction.customerName}</td>
               <td>{transaction.date}</td>
               <td>{transaction.total}</td>
@@ -153,8 +216,8 @@ const TransactionsTable = () => {
           </tr>
         </thead>
         <tbody>
-          {transactions.october.map((transaction) => (
-            <tr>
+          {transactions.october.map((transaction, index) => (
+            <tr key={index}>
               <td>{transaction.customerName}</td>
               <td>{transaction.date}</td>
               <td>{transaction.total}</td>
