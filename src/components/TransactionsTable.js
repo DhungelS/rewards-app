@@ -62,8 +62,43 @@ const TransactionsTable = () => {
     fetchDataOnLoad();
   }, []);
 
+
   return (
     <div className="container">
+      <div>
+        <h3>Nathanil Laurence Points:</h3>
+
+          <ul>
+            <li>Total: </li>
+            <ul>
+              <li>August:  </li>
+              <li>September:  </li>
+              <li>October: </li>
+            </ul>
+          </ul>
+         
+
+          <h3>Evangelina Jerred  Points:</h3>
+          <ul>
+            <li>Total: </li>
+            <ul>
+              <li>August:  </li>
+              <li>September:  </li>
+              <li>October: </li>
+            </ul>
+          </ul>
+          
+          <h3>Cameron Smith  Points:</h3>
+          <ul>
+            <li>Total: </li>
+            <ul>
+              <li>August:  </li>
+              <li>September:  </li>
+              <li>October: </li>
+            </ul>
+          </ul>
+
+      </div>
       <table>
         <thead>
           <tr className="month-row">
